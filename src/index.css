@@ -1,6 +1,25 @@
+
+@font-face {font-family: "All Round Gothic"; 
+  src: url("//db.onlinewebfonts.com/t/36f9c126444387446c52b962a725f250.eot"); 
+  src: url("//db.onlinewebfonts.com/t/36f9c126444387446c52b962a725f250.eot?#iefix") format("embedded-opentype"), 
+  url("//db.onlinewebfonts.com/t/36f9c126444387446c52b962a725f250.woff2") format("woff2"), 
+  url("//db.onlinewebfonts.com/t/36f9c126444387446c52b962a725f250.woff") format("woff"), 
+  url("//db.onlinewebfonts.com/t/36f9c126444387446c52b962a725f250.ttf") format("truetype"), 
+  url("//db.onlinewebfonts.com/t/36f9c126444387446c52b962a725f250.svg#All Round Gothic") format("svg"); 
+}
+
+:root{
+  --light: #E6EEF4;
+  --mid: #74959D;
+  --black: #0F1817;
+  --primary: #30544C;
+  --secoundary: #A58859;
+}
+
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: -apple-system, BlinkMacSystemFont, 'All Round Gothic', 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
