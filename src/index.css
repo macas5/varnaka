@@ -9,13 +9,16 @@
 }
 
 :root{
-  --light: #E6EEF4;
+  --light: #FFFFFF;
   --mid: #74959D;
   --black: #0F1817;
   --primary: #30544C;
   --secoundary: #A58859;
 }
 
+h1, h2, h3, h4{
+  margin: 0;
+}
 
 body {
   margin: 0;
@@ -24,6 +27,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: var(--primary);
 }
 
 code {

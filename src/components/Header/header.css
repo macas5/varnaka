@@ -1,0 +1,16 @@
+.headerbg{
+  background: url(../../Assets/Header\ Filler@2x.png);
+  background-size: cover;
+}
+
+.cta {
+  background: #30544C 0% 0% no-repeat padding-box;
+  color: var(--light);
+  font-size: 2em;
+  border-radius: 30px;
+  opacity: 1;
+}
+
+.f-4 {
+  font-size: 4em;
+}

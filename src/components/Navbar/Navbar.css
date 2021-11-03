@@ -1,10 +1,9 @@
 nav{
-  background: #E6EEF4B3 0% 0% no-repeat padding-box;
+  background: var(--light) 0% 0% no-repeat padding-box;
   box-shadow: 0px 3px 6px #00000029;
   opacity: 1;
 
   font-size: 24px;
-  color: var(--primary);
 }
 
 .search {
