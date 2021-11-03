@@ -1,12 +1,6 @@
 
-@font-face {font-family: "All Round Gothic"; 
-  src: url("//db.onlinewebfonts.com/t/36f9c126444387446c52b962a725f250.eot"); 
-  src: url("//db.onlinewebfonts.com/t/36f9c126444387446c52b962a725f250.eot?#iefix") format("embedded-opentype"), 
-  url("//db.onlinewebfonts.com/t/36f9c126444387446c52b962a725f250.woff2") format("woff2"), 
-  url("//db.onlinewebfonts.com/t/36f9c126444387446c52b962a725f250.woff") format("woff"), 
-  url("//db.onlinewebfonts.com/t/36f9c126444387446c52b962a725f250.ttf") format("truetype"), 
-  url("//db.onlinewebfonts.com/t/36f9c126444387446c52b962a725f250.svg#All Round Gothic") format("svg"); 
-}
+@import url('https://use.typekit.net/nzc3lod.css');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 :root{
   --light: #FFFFFF;
@@ -22,12 +16,15 @@ h1, h2, h3, h4{
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'All Round Gothic', 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: all-round-gothic,sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: var(--primary);
+}
+
+p {
+  color: var(--black);
+  font-family: 'Poppins', sans-serif;
 }
 
 code {
