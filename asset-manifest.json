@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/varnaka/static/css/main.b6e18262.chunk.css",
+    "main.js": "/varnaka/static/js/main.70c401f3.chunk.js",
+    "main.js.map": "/varnaka/static/js/main.70c401f3.chunk.js.map",
+    "runtime-main.js": "/varnaka/static/js/runtime-main.59c9c5e1.js",
+    "runtime-main.js.map": "/varnaka/static/js/runtime-main.59c9c5e1.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/varnaka/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.b6483003.chunk.js": "/varnaka/static/js/2.b6483003.chunk.js",
+    "static/js/2.b6483003.chunk.js.map": "/varnaka/static/js/2.b6483003.chunk.js.map",
+    "static/js/3.33d600b8.chunk.js": "/varnaka/static/js/3.33d600b8.chunk.js",
+    "static/js/3.33d600b8.chunk.js.map": "/varnaka/static/js/3.33d600b8.chunk.js.map",
+    "index.html": "/varnaka/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/varnaka/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.b6e18262.chunk.css.map": "/varnaka/static/css/main.b6e18262.chunk.css.map",
+    "static/js/2.b6483003.chunk.js.LICENSE.txt": "/varnaka/static/js/2.b6483003.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/varnaka/static/media/Header Filler@2x.1287e704.png",
+    "static/media/Search Logo.77cb047e.svg": "/varnaka/static/media/Search Logo.77cb047e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59c9c5e1.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.b6483003.chunk.js",
+    "static/css/main.b6e18262.chunk.css",
+    "static/js/main.70c401f3.chunk.js"
+  ]
+}
