@@ -6,7 +6,7 @@ import Search from '../../Assets/Search Logo.svg';
 
 const Navbar = () => {
   return(
-    <nav className="flex justify-between items-center pv2 ph5 v-mid">
+    <nav className="flex justify-between items-center ph5 v-mid">
       <div className="flex items-center">
         <img src={Logo} alt="Varnaka" className="ph2"/>
         <span className="ph2">CATEGORY</span>
